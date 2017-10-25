@@ -1,0 +1,19 @@
+slide {
+  padding: 30px 30px;
+}
+
+slide.title-slide h2 {
+  color: black;  
+}
+
+slide.title-slide p {
+  color: black;  
+}
+
+slides > img {
+  width: 100%;
+}
+
+slide article img {
+  width: 100%;
+}
