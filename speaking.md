@@ -40,9 +40,9 @@ democratic ideals embodied in the image of "Harvard of the Poor" was used by
 policy makers and advocates of the status quo to justify why the college had
 and could remain predominantly white. 
   
-# Founded on equality of opportunity
+# Equality of opportunity at City College
 
-![The Free Academy Building, pre-1890[^free-academy-1848]](assets/images/free-academy-1848.jpg)
+![The Free Academy Building, pre-1890](assets/images/free-academy-1848.jpg)
 
 City College of New York is 170 years old today. It's predecessor, the Free
 Academy, was created in 1847, by a public referendum in which 85 percent of the
@@ -89,14 +89,15 @@ arrived at the turn of the century, City College's meritocratic admission
 policies opened opportunity otherwise closed off by the discriminatory
 practices of employers and private colleges, like Columbia.
 
-**Though begun as tuition-free, there was never adequate tax money to provide
-enough of it for the city's public colleges**. Increasing grade requirements at
-City College effectively **rationed free higher education.** As admission
-requirements continued to climb, the rationing that had originally been an
-unfortunate necessity because of business opposition to tax increases, became
-a virtue of the college. In effect, the free public higher education in New
-York City was transformed from a universal public good into tuition-free
-scholarships for the most deserving. 
+**Though begun as tuition-free, there was never adequate tax money to
+provide enough of it for the city's public colleges**. **Increasing grade
+requirements at City College effectively rationed free higher
+education.** As admission requirements continued to climb, the rationing
+that had originally been an unfortunate necessity because of business
+opposition to tax increases, became a virtue of the college. In effect,
+the free public higher education in New York City was transformed from
+a universal public good into tuition-free scholarships for the most
+deserving. 
 
 In 1961, the loosely-coordinated four municipal colleges were consolidated into
 one citywide system, the City University of New York (CUNY). By then, though,
@@ -124,12 +125,13 @@ College.
 ![Martin Luther King Jr. speaking at City College commencement, June 1963](assets/images/king-speech-1963.jpg)
 
 It is against this backdrop, we turn our attention to a speech that Martin
-Luther King Jr. gave at City College on June 12, 1963. An estimated 15,000
-people were gathered that day for commencement ceremonies. Even with such
-a large audience, King had not yet gained the prominence as a national leader
-he would after the March on Washington later that summer. In fact, the *New
-York Times* only briefly remarked on the special speaker at commencement and no
-mention of his speech made it into the page of the *Amsterdam News.* 
+Luther King Jr. gave **at City College on June 12, 1963**. An estimated
+15,000 people were gathered that day for commencement ceremonies. Even
+with such a large audience, King had not yet gained the prominence as
+a national leader he would after the March on Washington later that
+summer. In fact, the *New York Times* only briefly remarked on the special
+speaker at commencement and no mention of his speech made it into the page
+of the *Amsterdam News.* 
 
 King's appearance came at a **critical juncture in the Southern civil
 rights struggle**. King received the invitation to speak at commencement
@@ -194,11 +196,11 @@ residents.
 
 ![Offices of the Board of Higher Education](assets/images/bhe.jpg)
 
-The **meritocratic ideals of CUNY immunized administrators to charges of racial
-discrimination**. They could always point to the color-blind meritocratic
-admissions requirements. But, being blind to the race of the student, liberal
-meritocracy served to justify the racial inequality rather than remedy the
-inequality it produced.  
+The **meritocratic ideals immunized CUNY to charges of racial
+discrimination**. Administrators and politicians could always point to the
+color-blind meritocratic admissions requirements. But, being blind to the
+race of the student, liberal meritocracy served to justify the racial
+inequality rather than remedy the inequality it produced.  
 
 In 1959, a special committee convened by the Board of Higher Education, the
 local governing body of the municipal colleges, to propose policies for the
@@ -218,9 +220,9 @@ black students. We know the extent of their exclusion from tuition-free CUNY
 only because of a federal decree that forced CUNY administration to conduct its
 first demographic survey in 1967. The findings were especially damning. **Black
 students were only 3.6 percent of the total matriculated enrollment at the more
-selective four-year colleges**. **Black students were more likely to be
+selective four-year colleges**. Black students were more likely to be
 enrolled in the less selective two-year community colleges, where they
-accounted for 13 percent**. Most significantly, **60 percent of all Black
+accounted for 13 percent. Most significantly, **60 percent of all Black
 students enrolled at CUNY were never admitted under existing admission
 requirements and were instead paying tuition as non-matriculants**.
 
@@ -233,11 +235,9 @@ tuition. Therefore black students disproportionately bore the additional burden
 of financing tuition-free education for matriculated students in the day
 session.
 
+# Enduring legacy of racial liberalism
 
-
-# Justifying and maintaining racial segregation
-
-![South Campus occupation]()
+![Students at anti-tuition rally, 1976](assets/images/ccny-protest-1976.jpg)
 
 Instead of redressing its growing racial problem, **CUNY doubled down in the
 1960s on the meritocratic ideals that had created racial disparities**. Indeed,
@@ -250,18 +250,19 @@ the city's high school graduates. The Open Admissions policy quickly
 transformed the municipal system, increasing freshmen enrollments by 75 percent
 in one year. 
 
-We can look to the failure of earlier efforts to reform CUNY's admissions
-reveals as illustrative of how the ideal of liberal meritocracy was a barrier
-to racial justice. In December 1963, at a meeting of the City College faculty
-union, a recently appointed member of the Board of Higher Education, the Black
-trade unionist Benjamin F. McLaurin, called for reforming CUNY's admissions to
-increase the number of Black students. He proposed that five to ten percent of
-the freshman class every year be admitted not based on high school grades but
-instead on potential. These students would be nominated by high school
-principals for admission to the municipal colleges even though they had not met
-minimum grade requirements for admission. Though color-blind by definition,
-McLaurin hoped that the city's racial and ethnic minorities would
-disproportionately benefit from the policy. 
+We can look to the failure of **earlier efforts to reform** CUNY's
+admissions reveals as illustrative of how the ideal of liberal meritocracy
+was a barrier to racial justice. In December 1963, at a meeting of the
+City College faculty union, a recently appointed member of the Board of
+Higher Education, the Black trade unionist Benjamin F. McLaurin, called
+for reforming CUNY's admissions to increase the number of Black students.
+He proposed that five to ten percent of the freshman class every year be
+admitted not based on high school grades but instead on potential. These
+students would be nominated by high school principals for admission to the
+municipal colleges even though they had not met minimum grade requirements
+for admission. Though color-blind by definition, McLaurin hoped that the
+city's racial and ethnic minorities would disproportionately benefit from
+the policy. 
 
 However, even a reform, such as the one McLaurin had proposed, that remained
 committed to meritocratic ideals was quickly shot down. In a letter published
