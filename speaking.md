@@ -10,35 +10,29 @@ Good evening! Before I begin, I want to thank Jeanne Theoharis and Komozi
 Woodard for inviting me to tonight's conversation. They have been generous
 mentors to me over the past three years.
 
-My talk tonight addresses the the City University of New York in the 1960s.
-I will focus primarily on City College of New York, the oldest of the four-year
+My talk tonight addresses the City University of New York in the 1960s.
+I will focus in particular on City College of New York, the oldest of the four-year
 municipal colleges and only a short walk from the Schomburg Library, where we
 are gathered tonight. I believe the case of City College and CUNY helps us
-grapple with one of the enduring legacies of Northern liberal racism, that of
-racial inequality in higher education.
+grapple with the enduring legacy of Northern racism.
 
-Many New Yorkers today might know City College as the "Harvard of the Poor."
-Certainly, this image has loomed large in its 170 years of existence. Unlike
-the elitist and aristocratic Harvard, City College has from its beginning been
-associated with egalitarian and democratic ideals since it was tuition-free
-until it the policy was terminated during the city's fiscal crisis in the
-mid-1970s. However, this was only partly true. For fifty years before it was
-terminated, City College and the other municipal colleges--Hunter, Brooklyn,
-and Queens--enrolled a growing number of tuition-paying students in its less
-selective evening sessions. Thus, the image of "Harvard of the Poor" was more
-myth and mission, hidden behind a tuition-free policy we can uncover a complex
-system of tuition charged to the students unable to gain admission under
-existing requirements. Indeed, admissions at City College prior to 1969 was as
-selective as those at Harvard or Columbia. Put simply: If you did not qualify
-for admissions based on your high school grades or standardized test scores,
-then you did not deserve a tax-supported tuition-free scholarship. 
+Certainly, the image of City College as "Harvard of the Poor" has loomed
+large in its 170 years of existence. City College has from its beginning
+been associated with an egalitarian and democratic mission. In particular,
+it is well-known to have been tuition-free the city's fiscal crisis in the
+70s. However, this history is incomplete. For fifty years before it was
+terminated, City College and the other municipal colleges--Hunter,
+Brooklyn, and Queens--enrolled a growing number of tuition-paying
+students, first in its in its less selective evening sessions, and later
+in community colleges. Indeed, admission to the tuition-free day session
+at City College prior to 1969 was as selective as those at Harvard or
+Columbia.
 
-Tonight, I want to address how this image served as a racial myth in postwar
-New York. During the 1960s, as racial conflict sharpened here as elsewhere, in
-particular around education inequalities, the meritocratic and liberal
-democratic ideals embodied in the image of "Harvard of the Poor" was used by
-policy makers and advocates of the status quo to justify why the college had
-and could remain predominantly white. 
+Tonight, I want to address how the image of the "Harvard of the Poor"
+served as a racial myth in postwar New York. As racial conflict sharpened
+around education inequalities the meritocratic ideals of City College were
+used by policy makers and defenders of the status quo to justify why the
+college had and could remain predominantly white. 
   
 # Equality of opportunity at City College
 
@@ -135,12 +129,12 @@ of the *Amsterdam News.*
 
 King's appearance came at a **critical juncture in the Southern civil
 rights struggle**. King received the invitation to speak at commencement
-the previous month when he was helping a desegregation campaign in
+the previous month when he was helping lead a desegregation campaign in
 Birmingham, Alabama. The night before commencement, President John F.
 Kennedy had delivered a speech on live television to introduce federal
-civil rights legislation. Indeed, Kennedy had begun the speech addressing
-by threats of violence following federal desegregation efforts at the
-University of Alabama. And, tragically, on the morning of commencement
+civil rights legislation. Indeed, Kennedy had begun the speech by
+addressing threats of violence following federal desegregation efforts at
+the University of Alabama. And, tragically, on the morning of commencement
 day, Medgar Evers, the NAACP field secretary in Mississippi, was
 assassinated in front of his home. In his speech to City College graduates
 later that day, King captured the turbulence of the moment by contrasting
@@ -149,7 +143,7 @@ later that day, King captured the turbulence of the moment by contrasting
 
 Though attention was directed southward, for King, racial injustice was not
 a problem unique to the South. King had already spoken of a "pressing need" for
-a "**a liberalism in the North which is truly liberal, a liberalism that firmly
+"**a liberalism in the North which is truly liberal, a liberalism that firmly
 believes in integration in its own community as well as in the deep South**."
 At commencement, King echoed that message, calling upon the graduates to "see
 that the **de facto segregation of the north is as injurious to the Negro
@@ -180,17 +174,17 @@ admonished Northern liberals:
 The City College President Buell Gallagher, pictured here with King, had
 extended the invitation to the Southern leader. Before City College, Gallagher
 had been the president a historically black private college in Alabama. He had
-been elected to the board of directors of the NAACP in 1943 and served on the
-board for 30 years.
+also been elected to the board of directors of the NAACP in 1943 and served on the
+that board for 30 years.
 
-Gallagher was a **protypical Northern liberal**, the sort that King had spoken
-of time and time again. His self-satisifed smile in this photograph
-from commencement belies the limits of the City College version of Northern
-racial liberalism. The college embraced a Southern civil rights leader even as
-it could turned away many of the black students down the hill in Harlem. They
-rallied the audience to the cause of civil rights even as they applauded
-a predominantly white graduating class in a city that had close a million black
-residents. 
+Gallagher was a **protypical Northern liberal**, the sort that King had
+spoken of time and time again. His self-satisifed smile in this photograph
+from commencement belies the limits of the City College version of
+Northern racism. The college embraced a Southern civil rights leader even
+as it could turned away many of the black students down the hill in
+Harlem. They rallied the audience to the cause of civil rights even as
+they applauded a predominantly white graduating class in a city that had
+close a million black residents. 
 
 # Meritocratic immunity of racial liberalism
 
@@ -199,32 +193,33 @@ residents.
 The **meritocratic ideals immunized CUNY to charges of racial
 discrimination**. Administrators and politicians could always point to the
 color-blind meritocratic admissions requirements. But, being blind to the
-race of the student, liberal meritocracy served to justify the racial
-inequality rather than remedy the inequality it produced.  
+race of the student, meritocracy, in fact, served to justify the racial
+inequality it produced.  
 
-In 1959, a special committee convened by the Board of Higher Education, the
-local governing body of the municipal colleges, to propose policies for the
-soon-to-be-named CUNY system. The committee found that demographic changes in
-the city's public school, more of whom were graduating high school with lower
-grades, would mean fewer of the city's students would able to meet the high
-admission requirements. Rather than countenance even minor reforms, it warned
-against lowering admission requirements since it would only lead to a greater
-number of students vying for seats in already crowded classrooms. Instead, the
-committee's recommendation to the Board was to **keep admission requirements
-higher for the few tuition-free seats in the day session**  and to **add
-tuition-charging seats in the less selective evening sessions and community
-colleges**. 
+In 1959, the Board of Higher Education, the local governing body of the
+municipal colleges, convened a special committee to propose policies for
+the soon-to-be-named CUNY system. The committee found that demographic
+changes in the city's public school, more of whom were graduating high
+school with lower grades, would mean fewer of the city's students would be
+able to meet the high admission requirements. Rather than countenance even
+minor reforms, it warned against lowering admission requirements since it
+would only lead to a greater number of students vying for seats in already
+crowded classrooms. Instead, the committee's recommendation to the Board
+was to **keep admission requirements higher for the few tuition-free seats
+in the day session**  and to **add tuition-charging seats in the less
+selective evening sessions and community colleges**. 
 
-The stratification within CUNY that developed proved injurious to the city's
-black students. We know the extent of their exclusion from tuition-free CUNY
-only because of a federal decree that forced CUNY administration to conduct its
-first demographic survey in 1967. The findings were especially damning. **Black
-students were only 3.6 percent of the total matriculated enrollment at the more
-selective four-year colleges**. Black students were more likely to be
-enrolled in the less selective two-year community colleges, where they
-accounted for 13 percent. Most significantly, **60 percent of all Black
-students enrolled at CUNY were never admitted under existing admission
-requirements and were instead paying tuition as non-matriculants**.
+The stratification within CUNY that developed proved injurious to the
+city's black students. We know the full extent of their exclusion from
+tuition-free CUNY only because of a federal decree that forced CUNY
+administration to conduct its first demographic survey in 1967. The
+findings were especially damning. **Black students were only 3.6 percent
+of the total matriculated enrollment at the more selective four-year
+colleges**. Black students were more likely to be enrolled in the less
+selective two-year community colleges, where they accounted for 13
+percent. Most significantly, **60 percent of all Black students enrolled
+at CUNY were never admitted under existing admission requirements and were
+instead paying tuition as non-matriculants**.
 
 Indeed, the structure of racial inequality imposed **a double penalty** on
 black students. High admission requirements meant that nearly all black
@@ -250,17 +245,17 @@ the city's high school graduates. The Open Admissions policy quickly
 transformed the municipal system, increasing freshmen enrollments by 75 percent
 in one year. 
 
-We can look to the failure of **earlier efforts to reform** CUNY's
-admissions reveals as illustrative of how the ideal of liberal meritocracy
-was a barrier to racial justice. In December 1963, at a meeting of the
-City College faculty union, a recently appointed member of the Board of
-Higher Education, the Black trade unionist Benjamin F. McLaurin, called
-for reforming CUNY's admissions to increase the number of Black students.
-He proposed that five to ten percent of the freshman class every year be
-admitted not based on high school grades but instead on potential. These
-students would be nominated by high school principals for admission to the
-municipal colleges even though they had not met minimum grade requirements
-for admission. Though color-blind by definition, McLaurin hoped that the
+But, looking to the failure of **earlier efforts to reform** CUNY's
+admissions reveals how meritocracy had been a barrier to racial equality.
+In December 1963, at a meeting of the City College faculty union, a
+recently appointed member of the Board of Higher Education, the Black
+trade unionist Benjamin F. McLaurin, called for reforming CUNY's
+admissions to increase the number of Black students. He proposed that five
+to ten percent of the freshman class every year be admitted not based on
+high school grades but instead on potential. These students would be
+nominated by high school principals for admission to the municipal
+colleges even though they had not met minimum grade requirements for
+admission. Though color-blind by definition, McLaurin hoped that the
 city's racial and ethnic minorities would disproportionately benefit from
 the policy. 
 
@@ -269,25 +264,31 @@ committed to meritocratic ideals was quickly shot down. In a letter published
 in the *New York Times*, the chairman of the Board of Higher Education evaded
 the racial problem entirely by denying the problem even existed. He retorted
 that CUNY, in fact, had the largest percentage of Black and Puerto Rican
-undergraduates of any university in the country. Another letter published in
+undergraduates of any university in the country. In another letter published in
 the *Times* a few days later, a Hunter College student went so far as to
 criticize the premise of McLaurin's proposal: "**That City College is situated
 in a Negro area does not entitle Negroes to admission any more than the
 location of Cooper Union in the Bowery entitles derelicts to admission**." 
   
-These responses to even minor reform illustrate the limits of racial justice
-under the existing system. A 1964 report to the State senate had concluded that
-a comparison of CUNY to the Jim Crow South was "bitterly ironic." Though the
-Black population of New York City was approximately the same as it was in all
-of Louisiana, the report estimated the more selective, tuition-free senior
-colleges enrolled only 1,000 Black students whereas Louisiana's state colleges
-enrolled more than 10,000. **"New York City's education is infinitely better,"
-the report admitted, "but of what good is a superior education to a racial
-group or one of its members against whom college entrance doors are barred."**
+These responses to even minor reform illustrate the limits of racial
+equality under the existing system. A 1964 report to the State senate had
+concluded that a comparison of CUNY to the Jim Crow South was "bitterly
+ironic." Though the Black population of New York City was approximately
+the same as it was in all of Louisiana, the report estimated the more
+selective, tuition-free senior colleges enrolled only 1,000 Black students
+whereas Louisiana's state colleges enrolled more than 10,000. **"New York
+City's education is infinitely better," the report admitted, "but of what
+good is a superior education to a racial group or one of its members
+against whom college entrance doors are barred."**
 
-In a 1968 essay, Addison Gayle, a City College instructor and noted writer on
-black literature, wrote it was "**criminal that a college so close, a college
-originally designed for poor people, has not opened its doors to them**". Those
-doors finally opened once black and Puerto Rican students occupied City College
-in April 1969. During their occupation, **City College, the "Harvard of the
-Poor", was renamed "The University of Harlem"**. 
+In a 1968 essay, Addison Gayle, a City College instructor and noted critic
+on black literature, wrote it was "**criminal that a college so close, a
+college originally designed for poor people, has not opened its doors to
+them**". Those doors finally opened once black and Puerto Rican students
+occupied City College in April 1969. During their occupation, these
+students shed the myth of City College as the "Harvard of the Poor" when
+they **renamed it "The University of Harlem"**. 
+
+The meritocratic ideal lives on, even though tuition-free CUNY has long
+past, and remains a barrier for achieving equality in our racially
+segregated educational system.
