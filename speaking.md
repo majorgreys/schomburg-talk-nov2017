@@ -1,80 +1,83 @@
 ---
 title: "\"Harvard of the Poor\" as Racial Myth"
-subtitle: "Racial Inequality at City University of New York, 1960-1969"
+subtitle: "Racism and the City University of New York, 1960-1969"
 author: Tahir H. Butt
 institute: Graduate Center, CUNY
 date: November 2, 2017
 ---
 
-My talk tonight addresses the City University of New York in the 1960s. I will
-focus in particular on City College of New York, the oldest of the four-year
-municipal colleges and only a short walk from the Schomburg Library, where we
-are gathered tonight. I believe the case of City College and CUNY helps us
-grapple with the enduring legacy of Northern racism.
+From its founding in the 19th century, City College has been associated with
+an egalitarian and democratic mission. That mission was best reflected in its
+reputation as the "Harvard of the Poor". And, central to that mission was the
+fact that New York City's municipal colleges had maintained a policy of free
+tuition for over 150 years until the fiscal crisis that crippled the city in
+the 1970s. However, for fifty years before the policy was finally terminated,
+City College enrolled a growing number of tuition-paying students. As
+tuition-free education became a privilege for the few, admission requirements
+become more selective. Therefore, by the 1960s, the "Harvard of the Poor" had
+become more myth than mission. 
 
-Certainly, the image of City College as "Harvard of the Poor" has loomed large
-in its 170 years of existence. City College has from its beginning been
-associated with an egalitarian and democratic mission. In particular, it is
-well-known to have been tuition-free the city's fiscal crisis in the 70s.
-However, this history is incomplete. For fifty years before it was terminated,
-City College and the other municipal colleges--Hunter, Brooklyn, and
-Queens--enrolled a growing number of tuition-paying students, first in its in
-its less selective evening sessions, and later in community colleges. Indeed,
-admission to the tuition-free day session at City College prior to 1969 was as
-selective as those at Harvard or Columbia.
-
-Tonight, I want to address how the image of the "Harvard of the Poor" served as
-a racial myth in postwar New York. As racial conflict sharpened around education
-inequalities the meritocratic ideals of City College were used by policy makers
-and defenders of the status quo to justify why the college had and could remain
-predominantly white.
+This myth took on a racial dimension because of the shifts in the city's
+demographics after the Second World War. As a million white residents
+migrated out and as many black Southerners along with Puerto Ricans migrated
+in, the city's public schools were transformed. But the admission policies of
+the municipal colleges effectively excluded these two social groups. In the
+context of sharpening racial conflict, particularly around segregated
+education, the absence of black students from the City University of New York
+became a cause for concern, among the social groups excluded as well as
+university administrators. However, rather than countenance even minor
+reforms, defenders of the status quo, both inside and outside the university,
+offered the mission and ideals of City College as justification for why the
+college had, and could, remain predominantly white.
 
 # Equality of opportunity at City College
 
 ![The Free Academy Building, pre-1890](assets/images/free-academy-1848.jpg)
 
 City College of New York is 170 years old today. It's predecessor, the Free
-Academy, was created in 1847, by a public referendum in which 85 percent of the
-city's voters approved the creation of a tax-supported public academy. The Free
-Academy, as stated in the original act, would be for "**the purpose of extending
-the benefits of education gratuitously to persons who have been pupils in the
-common schools**." Gratuitous was meant in the sense that it would be free of
-charge.
+Academy, was created in 1847, by a public referendum in which 85 percent of
+the city's voters approved the creation of a tax-supported public academy.
+The Free Academy, as stated in the original act, was created for "**the
+purpose of extending the benefits of education gratuitously to persons who
+have been pupils in the common schools**." Gratuitous, in this sense, was
+meant as free of charge.
 
-The President of the Board of Education at the time, who had proposed the Free
-Academy, famously proclaimed "**Open the doors to all--let the children of the
-rich and the poor take their seats together, and know of no distinction save
-that of industry, good conduct, and intellect**." In effect, City College, which
-would be the name given to the new academy in 1866 once it began granting
-bachelor degrees, was founded with the mission of equal opportunity. But, as
-this proclamation makes explicit, that mission would only extend to those
-students who could demonstrate certain traits, marking everyone else who did not
-qualify under this criteria as undeserving. For its first fifty years, when few
-aspired to higher education, the limits of opportunity at City College were not
-yet apparent.
+The President of the Board of Education at the time, who had proposed the
+Free Academy, famously proclaimed "**Open the doors to all--let the children
+of the rich and the poor take their seats together, and know of no
+distinction save that of industry, good conduct, and intellect**." City
+College, which would be new name of the Free Academy once it began granting
+bachelor degrees in 1866, was founded with the mission of equal opportunity
+grounded in egalitarian and democratic ideals unique at that time. But, as
+this proclamation also made explicit, this mission would only extend to those
+students who could demonstrate qualification: equal opportunity, but for
+only those who deserved it.
 
-Compared to admissions based on social class or ability of a family to pay for
-college education, admission to City College seemed less susceptible to certain
-underlying social biases. But the ideal of meritocracy, central to the mission
-of the college, was deeply problematic. The meritocratic ideal assumed the
-college could narrowly define the "intellect" of individual students, initially
-based on entrance exams and later on high school grades. Based on a narrow
-construction of merit, the benefits of tuition-free education were bestowed upon
-those deemed deserving. Fundamentally, the ideal of meritocracy in admissions
-assumed a level playing field, where each individual has the same chance of
-success. But racism makes the playing field far from level
+For its first fifty years, when few aspired to education past primary
+education, the limits of opportunity at City College were not yet readily
+apparent. But, as demand grew, admission policies increasingly focused on
+individual merit in order to select only the best qualified. Based on a
+narrow construction of merit as high school grades and standardized test
+scores, allocating a scarce tuition-free education effectively became virtue
+of the system rather than a departure from its egalitarian and democratic
+mission. Fundamentally, the meritocracy that emerged in the twentieth century
+was legitimated as leveling the playing field since each individual would be
+admitted on their demonstrated intellectual ability rather than social
+traits. While color-blind by definition, meritocracy proved a racial myth
+since it was used to evade how racism continued to make the playing field far
+from level.
 
 # "Harvard of the Poor" as myth
 
 ![Special feature in New York Times on CUNY, 1965](assets/images/boroff-1965.jpg)
 
-The nickname "Harvard of the Poor" has been long associated with City College.
-The image **originated from policy changes starting in the 1920s**. In 1924, a
-required high school average was introduced for gaining admission to city
-college. This was necessary because the number of city students qualified for
-admission to City College and seeking higher education had increased. Especially
-for the children of Jewish immigrants from Eastern Europe who arrived at the
-turn of the century, City College's meritocratic admission policies opened
+The reputation of City College as the "Harvard of the Poor" **originated from
+policy changes starting in the 1920s**. In 1924, a required high school
+average was introduced for gaining admission to city college. This was
+necessary because the number of city students qualified for admission to City
+College, and seeking higher education, had increased. Especially for the
+children of Jewish immigrants from Eastern Europe who arrived at the turn of
+the century, City College's meritocratic admission policies opened
 opportunity otherwise closed off by the discriminatory practices of employers
 and private colleges, like Columbia.
 
