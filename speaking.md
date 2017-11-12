@@ -3,7 +3,7 @@ title: "\"Harvard of the Poor\" as Racial Myth"
 subtitle: "Racism and the City University of New York, 1960-1969"
 author: Tahir H. Butt
 institute: Graduate Center, CUNY
-date: November 2, 2017
+date: November 2, 2017 (rev Nov 12)
 ---
 
 From its founding in the 19th century, City College has been associated with
@@ -37,15 +37,15 @@ college had, and could, remain predominantly white.
 City College of New York is 170 years old today. It's predecessor, the Free
 Academy, was created in 1847, by a public referendum in which 85 percent of
 the city's voters approved the creation of a tax-supported public academy.
-The Free Academy, as stated in the original act, was created for "**the
+The Free Academy, as stated in the original act, was created for "the
 purpose of extending the benefits of education gratuitously to persons who
-have been pupils in the common schools**." Gratuitous, in this sense, was
+have been pupils in the common schools." Gratuitous, in this sense, was
 meant as free of charge.
 
 The President of the Board of Education at the time, who had proposed the
-Free Academy, famously proclaimed "**Open the doors to all--let the children
+Free Academy, famously proclaimed "Open the doors to all--let the children
 of the rich and the poor take their seats together, and know of no
-distinction save that of industry, good conduct, and intellect**." City
+distinction save that of industry, good conduct, and intellect." City
 College, which would be new name of the Free Academy once it began granting
 bachelor degrees in 1866, was founded with the mission of equal opportunity
 grounded in egalitarian and democratic ideals unique at that time. But, as
